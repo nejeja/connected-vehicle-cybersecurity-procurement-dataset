@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Dataset of public procurement procedures related to vehicles of public administration and IZS-relevant functions in 2018–2026"
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - family-names: "Nejedlý"
+    given-names: "Jan"
+year: 2026
+repository-code: "https://github.com/nejeja/connected-vehicle-cybersecurity-procurement-dataset"
+keywords:
+  - connected vehicles
+  - cybersecurity
+  - public procurement
+  - hybrid threats
+  - UNECE R155
+  - UNECE R156
+  - Czech Republic
+license: "CC0-1.0"
